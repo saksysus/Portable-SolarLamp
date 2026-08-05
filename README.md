@@ -68,21 +68,6 @@ Millions of people still experience unreliable electricity or require portable l
 
 ---
 
-## 📸 Project Preview
-
-Add images of your prototype here.
-
-```text
-/images
-├── prototype.jpg
-├── folded.jpg
-├── unfolded.jpg
-├── charging.jpg
-└── working.jpg
-```
-
----
-
 ## 🤝 Contributing
 
 Contributions, suggestions, and improvements are always welcome. Feel free to fork this repository, open issues, or submit a pull request to help make SolarFold even better.
